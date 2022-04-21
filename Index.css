@@ -1,0 +1,61 @@
+body{
+    background-image: url(fond\ décran.jpg);
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#conteneur{
+	display: flex;
+	justify-content: space-around;
+}
+
+h1{
+    color: #008F11;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: #008F11;
+}
+
+img{
+    font-size: 30px;
+    display: block;
+}
+
+p{
+    color: #008F11 ;
+    text-align: center;
+}
+
+a{
+    position: absolute;
+    margin-left: 93%;
+    margin-top: -26.5%;
+}
+
+a.lien{
+    color: rgb(10, 10, 10);
+    text-align: center;
+    margin-top: -1.5%;
+}
+
+#indice{
+    text-align: center;
+    color: #008F11;
+}
+
+marquee{
+    color: rgb(234, 255, 0);
+}
+
+li{
+    color: #008F11;
+    text-align: center;
+    list-style-type: none;
+    
+}
